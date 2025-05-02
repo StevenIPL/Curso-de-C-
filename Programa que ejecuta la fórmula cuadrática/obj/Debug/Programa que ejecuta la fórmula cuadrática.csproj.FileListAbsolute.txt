@@ -1,0 +1,7 @@
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que ejecuta la fórmula cuadrática\bin\Debug\Programa que ejecuta la fórmula cuadrática.exe.config
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que ejecuta la fórmula cuadrática\bin\Debug\Programa que ejecuta la fórmula cuadrática.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que ejecuta la fórmula cuadrática\bin\Debug\Programa que ejecuta la fórmula cuadrática.pdb
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que ejecuta la fórmula cuadrática\obj\Debug\Programa que ejecuta la fórmula cuadrática.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que ejecuta la fórmula cuadrática\obj\Debug\Programa que ejecuta la fórmula cuadrática.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que ejecuta la fórmula cuadrática\obj\Debug\Programa que ejecuta la fórmula cuadrática.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que ejecuta la fórmula cuadrática\obj\Debug\Programa que ejecuta la fórmula cuadrática.pdb
