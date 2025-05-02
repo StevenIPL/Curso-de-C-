@@ -1,0 +1,7 @@
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que multiplica dos números digitados\bin\Debug\Programa que multiplica dos números digitados.exe.config
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que multiplica dos números digitados\bin\Debug\Programa que multiplica dos números digitados.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que multiplica dos números digitados\bin\Debug\Programa que multiplica dos números digitados.pdb
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que multiplica dos números digitados\obj\Debug\Programa que multiplica dos números digitados.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que multiplica dos números digitados\obj\Debug\Programa que multiplica dos números digitados.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que multiplica dos números digitados\obj\Debug\Programa que multiplica dos números digitados.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que multiplica dos números digitados\obj\Debug\Programa que multiplica dos números digitados.pdb
