@@ -29,3 +29,4 @@ class Program
             Console.WriteLine("El número no es primo.");
     }
 }
+

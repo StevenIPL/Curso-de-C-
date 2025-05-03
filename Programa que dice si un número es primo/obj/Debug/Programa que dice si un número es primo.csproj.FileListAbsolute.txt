@@ -1,0 +1,7 @@
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que dice si un número es primo\bin\Debug\Programa que dice si un número es primo.exe.config
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que dice si un número es primo\bin\Debug\Programa que dice si un número es primo.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que dice si un número es primo\bin\Debug\Programa que dice si un número es primo.pdb
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que dice si un número es primo\obj\Debug\Programa que dice si un número es primo.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que dice si un número es primo\obj\Debug\Programa que dice si un número es primo.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que dice si un número es primo\obj\Debug\Programa que dice si un número es primo.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\Programa que dice si un número es primo\obj\Debug\Programa que dice si un número es primo.pdb

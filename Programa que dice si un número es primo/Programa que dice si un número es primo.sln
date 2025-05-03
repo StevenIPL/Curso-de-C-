@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{5D56DE97-E69C-4E91-B28B-C44E78D182CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa que dice si un número es primo", "Programa que dice si un número es primo.csproj", "{D65255F3-C87E-4544-B870-87C1D36B7E9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5D56DE97-E69C-4E91-B28B-C44E78D182CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D56DE97-E69C-4E91-B28B-C44E78D182CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D56DE97-E69C-4E91-B28B-C44E78D182CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D56DE97-E69C-4E91-B28B-C44E78D182CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65255F3-C87E-4544-B870-87C1D36B7E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65255F3-C87E-4544-B870-87C1D36B7E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65255F3-C87E-4544-B870-87C1D36B7E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65255F3-C87E-4544-B870-87C1D36B7E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1EEFAD51-6260-403E-8F87-49C9D0B17FEB}
+		SolutionGuid = {41DC168D-7855-48BD-989D-EFE94B06BC4B}
 	EndGlobalSection
 EndGlobal
