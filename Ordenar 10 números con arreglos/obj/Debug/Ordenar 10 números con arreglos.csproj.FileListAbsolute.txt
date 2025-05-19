@@ -1,0 +1,7 @@
+C:\Users\guill\Documents\Universidad\Curso de C#\Ordenar 10 números con arreglos\bin\Debug\Ordenar 10 números con arreglos.exe.config
+C:\Users\guill\Documents\Universidad\Curso de C#\Ordenar 10 números con arreglos\bin\Debug\Ordenar 10 números con arreglos.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\Ordenar 10 números con arreglos\bin\Debug\Ordenar 10 números con arreglos.pdb
+C:\Users\guill\Documents\Universidad\Curso de C#\Ordenar 10 números con arreglos\obj\Debug\Ordenar 10 números con arreglos.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\Ordenar 10 números con arreglos\obj\Debug\Ordenar 10 números con arreglos.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\Ordenar 10 números con arreglos\obj\Debug\Ordenar 10 números con arreglos.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\Ordenar 10 números con arreglos\obj\Debug\Ordenar 10 números con arreglos.pdb

@@ -1,0 +1,7 @@
+C:\Users\guill\Documents\Universidad\Curso de C#\pruebas de la clase\bin\Debug\pruebas de la clase.exe.config
+C:\Users\guill\Documents\Universidad\Curso de C#\pruebas de la clase\bin\Debug\pruebas de la clase.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\pruebas de la clase\bin\Debug\pruebas de la clase.pdb
+C:\Users\guill\Documents\Universidad\Curso de C#\pruebas de la clase\obj\Debug\pruebas de la clase.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\pruebas de la clase\obj\Debug\pruebas de la clase.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\pruebas de la clase\obj\Debug\pruebas de la clase.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\pruebas de la clase\obj\Debug\pruebas de la clase.pdb
