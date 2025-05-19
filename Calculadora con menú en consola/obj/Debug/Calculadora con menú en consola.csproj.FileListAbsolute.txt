@@ -1,0 +1,7 @@
+C:\Users\guill\Documents\Universidad\Curso de C#\Calculadora con menú en consola\bin\Debug\Calculadora con menú en consola.exe.config
+C:\Users\guill\Documents\Universidad\Curso de C#\Calculadora con menú en consola\bin\Debug\Calculadora con menú en consola.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\Calculadora con menú en consola\bin\Debug\Calculadora con menú en consola.pdb
+C:\Users\guill\Documents\Universidad\Curso de C#\Calculadora con menú en consola\obj\Debug\Calculadora con menú en consola.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\Calculadora con menú en consola\obj\Debug\Calculadora con menú en consola.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\Calculadora con menú en consola\obj\Debug\Calculadora con menú en consola.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\Calculadora con menú en consola\obj\Debug\Calculadora con menú en consola.pdb
