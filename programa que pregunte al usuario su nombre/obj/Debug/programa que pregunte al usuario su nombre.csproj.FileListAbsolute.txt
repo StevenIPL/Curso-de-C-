@@ -1,0 +1,7 @@
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pregunte al usuario su nombre\bin\Debug\programa que pregunte al usuario su nombre.exe.config
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pregunte al usuario su nombre\bin\Debug\programa que pregunte al usuario su nombre.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pregunte al usuario su nombre\bin\Debug\programa que pregunte al usuario su nombre.pdb
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pregunte al usuario su nombre\obj\Debug\programa que pregunte al usuario su nombre.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pregunte al usuario su nombre\obj\Debug\programa que pregunte al usuario su nombre.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pregunte al usuario su nombre\obj\Debug\programa que pregunte al usuario su nombre.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pregunte al usuario su nombre\obj\Debug\programa que pregunte al usuario su nombre.pdb
