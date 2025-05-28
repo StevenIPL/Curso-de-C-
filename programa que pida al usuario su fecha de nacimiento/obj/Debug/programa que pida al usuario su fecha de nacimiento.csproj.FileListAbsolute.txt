@@ -1,0 +1,7 @@
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pida al usuario su fecha de nacimiento\bin\Debug\programa que pida al usuario su fecha de nacimiento.exe.config
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pida al usuario su fecha de nacimiento\bin\Debug\programa que pida al usuario su fecha de nacimiento.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pida al usuario su fecha de nacimiento\bin\Debug\programa que pida al usuario su fecha de nacimiento.pdb
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pida al usuario su fecha de nacimiento\obj\Debug\programa que pida al usuario su fecha de nacimiento.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pida al usuario su fecha de nacimiento\obj\Debug\programa que pida al usuario su fecha de nacimiento.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pida al usuario su fecha de nacimiento\obj\Debug\programa que pida al usuario su fecha de nacimiento.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que pida al usuario su fecha de nacimiento\obj\Debug\programa que pida al usuario su fecha de nacimiento.pdb

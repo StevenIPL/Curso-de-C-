@@ -28,7 +28,7 @@ class Calculadora
 
                 Console.Write("Ingrese el segundo número: ");
                 num2 = double.Parse(Console.ReadLine());
-            }
+            } 
             else
             {
                 num1 = num2 = resultado = 0;
