@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guill\\Documents\\Universidad\\Curso de C#\\programa que muestre el calendario del mes actual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6912DD1-D0F4-415F-B625-C6043F997DEB}|programa que muestre el calendario del mes actual.csproj|c:\\users\\guill\\documents\\universidad\\curso de c#\\programa que muestre el calendario del mes actual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6912DD1-D0F4-415F-B625-C6043F997DEB}|programa que muestre el calendario del mes actual.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\Documents\\Universidad\\Curso de C#\\programa que muestre el calendario del mes actual\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\guill\\Documents\\Universidad\\Curso de C#\\programa que muestre el calendario del mes actual\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:22:57.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

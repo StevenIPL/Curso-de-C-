@@ -1,0 +1,7 @@
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que muestre el calendario del mes actual\bin\Debug\programa que muestre el calendario del mes actual.exe.config
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que muestre el calendario del mes actual\bin\Debug\programa que muestre el calendario del mes actual.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que muestre el calendario del mes actual\bin\Debug\programa que muestre el calendario del mes actual.pdb
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que muestre el calendario del mes actual\obj\Debug\programa que muestre el calendario del mes actual.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que muestre el calendario del mes actual\obj\Debug\programa que muestre el calendario del mes actual.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que muestre el calendario del mes actual\obj\Debug\programa que muestre el calendario del mes actual.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\programa que muestre el calendario del mes actual\obj\Debug\programa que muestre el calendario del mes actual.pdb
