@@ -1,0 +1,7 @@
+C:\Users\guill\Documents\Universidad\Curso de C#\Registro de clientes del Gimnasio\bin\Debug\Registro de clientes del Gimnasio.exe.config
+C:\Users\guill\Documents\Universidad\Curso de C#\Registro de clientes del Gimnasio\bin\Debug\Registro de clientes del Gimnasio.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\Registro de clientes del Gimnasio\bin\Debug\Registro de clientes del Gimnasio.pdb
+C:\Users\guill\Documents\Universidad\Curso de C#\Registro de clientes del Gimnasio\obj\Debug\Registro de clientes del Gimnasio.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\Registro de clientes del Gimnasio\obj\Debug\Registro de clientes del Gimnasio.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\Universidad\Curso de C#\Registro de clientes del Gimnasio\obj\Debug\Registro de clientes del Gimnasio.exe
+C:\Users\guill\Documents\Universidad\Curso de C#\Registro de clientes del Gimnasio\obj\Debug\Registro de clientes del Gimnasio.pdb
